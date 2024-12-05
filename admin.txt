@@ -1,0 +1,4 @@
+http://localhost/Beatuty-Parlour-Management-System-PHP/bpms/admin/index.php
+
+username:admin
+password:mahendra
